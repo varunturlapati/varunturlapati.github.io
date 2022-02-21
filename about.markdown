@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Interests
-1. Startup Investment
+1. Startup Investment - see [here](investments)
     1. AgTech
     1. EdTech
     1. CleanTech
