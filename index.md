@@ -7,6 +7,8 @@ permalink: /
 ---
 
 # {{ site.title }}
+![Self](/assets/images/VT_LinkedIn_ProfPic.jpeg)
+
 Hi there! Welcome to my site!
 
 # Handles/accounts
