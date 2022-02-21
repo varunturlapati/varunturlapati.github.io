@@ -1,33 +1,33 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 # Interests
-1. Startup Investment - see [here](investments)
+1. Startup Investment - see [here](/investments)
     1. AgTech
-    1. EdTech
-    1. CleanTech
-    1. Sustainability, Conservation
-    1. Mass Transport
-    1. Inclusivity
-1. Mentoring, Teaching
-1. Photography
+    2. EdTech
+    3. CleanTech
+    4. Sustainability, Conservation
+    5. Mass Transport
+    6. Inclusivity
+2. Mentoring, Teaching
+3. Photography
     - [My Flickr](https://flickr.com/people/waterlord/)
-1. Beer
+4. Beer
     1. Drinking
-    1. Brewery investment
-    1. Brewing
-1. Languages
+    2. Brewery investment
+    3. Brewing
+5. Languages
     1. Telugu
-    1. Marathi
-    1. Hindi
-    1. English
-    1. Kannada
-    1. Spanish
-    1. Mandarin
-1. Traveling, Adventures
+    2. Marathi
+    3. Hindi
+    4. English
+    5. Kannada
+    6. Spanish
+    7. Mandarin
+6. Traveling, Adventures
 
 # Handles/accounts
 [Github](https://www.github.com/varunturlapati)
