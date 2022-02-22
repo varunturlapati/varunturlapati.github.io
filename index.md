@@ -16,7 +16,9 @@ Hi there! Welcome to my site!
 
 [Twitter](https://www.twitter.com/varunturlapati)
 
-[LinkedIn](https://www.linkedin.com/in/varunturlapati)
+[LinkedIn]({{ site.linkedin_url }})
+
+[Medium]({{ site.medium_url }})
 
 # About
 [More about me](about)
