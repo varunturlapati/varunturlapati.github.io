@@ -12,9 +12,9 @@ permalink: /
 Hi there! Welcome to my site!
 
 # Handles/accounts
-[Github](https://www.github.com/varunturlapati)
+[Github](https://www.github.com/{{ site.github_username }})
 
-[Twitter](https://www.twitter.com/varunturlapati)
+[Twitter](https://www.twitter.com/{{ site.twitter_username }})
 
 [LinkedIn]({{ site.linkedin_url }})
 

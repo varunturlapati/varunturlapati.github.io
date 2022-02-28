@@ -30,8 +30,10 @@ permalink: /about
 6. Traveling, Adventures
 
 # Handles/accounts
-[Github](https://www.github.com/varunturlapati)
+[Github](https://www.github.com/{{ site.github_username }})
 
-[Twitter](https://www.twitter.com/varunturlapati)
+[Twitter](https://www.twitter.com/{{ site.twitter_username }})
 
-[LinkedIn](https://www.linkedin.com/in/varunturlapati)
+[LinkedIn]({{ site.linkedin_url }})
+
+[Medium]({{ site.medium_url }})
