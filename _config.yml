@@ -32,6 +32,15 @@ investments:
   syndicate_name: Chaanakya
   syndicate_description: >-
     We are looking to back companies in the sapces of FoodTech, AgTech, Conservation, EdTech, Mass Tranit, Clean Energy, CleanTech, Inclusivity
+languages:
+  wiki_base_url: https://en.wikipedia.org/wiki/
+  telugu: Telugu_Language
+  marathi: Marathi_Language
+  hindi: Hindi_Language
+  kannada: Kannada_Language
+  english: English_Language
+  spanish: Spanish_Language
+  mandarin: Mandarin_Language
 
 
 # Build settings

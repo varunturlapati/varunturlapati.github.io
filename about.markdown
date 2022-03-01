@@ -20,13 +20,13 @@ permalink: /about
     2. Brewery investment
     3. Brewing
 5. Languages
-    1. Telugu
-    2. Marathi
-    3. Hindi
-    4. English
-    5. Kannada
-    6. Spanish
-    7. Mandarin
+    1. [Telugu]({{ site.languages.wiki_base_url }}{{ site.languages.telugu }})
+    2. [Marathi]({{ site.languages.wiki_base_url }}{{ site.languages.marathi }})
+    3. [Hindi]({{ site.languages.wiki_base_url }}{{ site.languages.hindi }})
+    4. [English]({{ site.languages.wiki_base_url }}{{ site.languages.english }})
+    5. [Kannada]({{ site.languages.wiki_base_url }}{{ site.languages.kannada }})
+    6. [Spanish]({{ site.languages.wiki_base_url }}{{ site.languages.spanish }})
+    7. [Mandarin]({{ site.languages.wiki_base_url }}{{ site.languages.mandarin }})
 6. Traveling, Adventures
 
 # Handles/accounts
