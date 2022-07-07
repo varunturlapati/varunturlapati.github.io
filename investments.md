@@ -24,6 +24,7 @@ We're passionate about the following industries/sectors
 
 Currently we operate using the platform of AngelList Invest. If you want to make a positive difference to our world, come! Back us here - [{{ site.investments.syndicate_name }}]({{ site.investments.syndicate_url }})
 
+## Got ideas? Pitches?
 <!-- Sprintful inline widget begin -->
 <div class="sprintful-inline-widget" data-url="https://on.sprintful.com/vt" style="min-width:320px;height:630px;background-color:#fff;"></div>
 <script type="text/javascript" src="https://app.sprintful.com/widget/v1.js"></script>
