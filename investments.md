@@ -4,6 +4,7 @@
 
 layout: page
 permalink: /investments
+title: Varun's Investment Thesis
 ---
 
 # Investment Thesis

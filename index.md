@@ -4,6 +4,7 @@
 
 layout: default
 permalink: /
+title: Varun Turlapati
 ---
 
 # {{ site.title }}
