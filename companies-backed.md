@@ -11,16 +11,37 @@ permalink: /companies-backed
 ## CleanTech
 
 ## EdTech
+### Patchr
 
-* Patchr
-* B4Grad
-* Language Learning Market
+### B4Grad
+
+### Language Learning Market
+Marketplace for various ways to learn and teach languages
+
+[Language Learning Market]({{site.investments.personal.companies.languagelearning.site}})
+
+Follow them on [LinkedIn]({{site.social.linkedin}}{{site.investments.personal.companies.languagelearning.twitter}})
 
 ## Inclusivity
+### Psyonic
+Robotic hand with haptic touch, strength and sensitivity
 
-* [Psyonic](https://www.psyonic.io) - See some of their cool videos [here](https://www.youtube.com/channel/UCAuEvRfpMDCqtGL0cuVbmyA/featured)
-* AccessibleGo
-* CricFlex
+[Psyonic]({{site.investments.personal.companies.psyonic.site}})
+
+See some of their cool videos [here]({{site.social.youtube}}{{site.investments.personal.companies.psyonic.youtube}})
+
+Follow them on [Twitter]({{site.social.twitter}}{{site.investments.personal.companies.psyonic.twitter}})
+
+### AccessibleGo
+Travel site for differently abled individuals
+
+[AccessibleGo]({{site.investments.personal.companies.accessiblego.site}})
+
+Check out their warm testimonials [here](https://go.accessiblego.com/thank-you-wall)
+
+Follow them on [Twitter]({{site.social.twitter}}{{site.investments.personal.companies.accessiblego.twitter}})
+
+### Cricflex
 
 ## Mass Transport/Logistics
 
