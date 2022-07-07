@@ -5,13 +5,15 @@ permalink: /about
 ---
 
 # Interests
-1. Startup Investment - see [here](/investments)
+1. Startup Investment - see [{{ site.investments.syndicate_name }}](/investments)
     1. AgTech
     2. EdTech
     3. CleanTech
     4. Sustainability, Conservation
     5. Mass Transport
     6. Inclusivity
+   
+   For companies that I have invested in, see [Companies backed](/companies-backed)
 2. Mentoring, Teaching
 3. Photography
     - [My Flickr](https://flickr.com/people/waterlord/)
