@@ -57,6 +57,9 @@ social:
   twitter: https://www.twitter.com/
   youtube: https://www.youtube.com/channel/
   linkedin: https://www.linkedin.com/company/
+colors:
+  purple: 5404A4
+  yellow: F6E820
 
 
 # Build settings

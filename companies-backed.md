@@ -20,7 +20,7 @@ Marketplace for various ways to learn and teach languages
 
 [Language Learning Market]({{site.investments.personal.companies.languagelearning.site}})
 
-Follow them on [LinkedIn]({{site.social.linkedin}}{{site.investments.personal.companies.languagelearning.twitter}})
+Follow them on [LinkedIn]({{site.social.linkedin}}{{site.investments.personal.companies.languagelearning.linkedin}})
 
 ## Inclusivity
 ### Psyonic
