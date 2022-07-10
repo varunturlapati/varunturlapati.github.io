@@ -12,6 +12,9 @@ permalink: /companies-backed
 
 ## EdTech
 ### Patchr
+Teaching Electronics, PCB design and fabrication so these can be made in USA
+
+[Patchr]({{site.investments.personal.companies.patchr.site}})
 
 ### B4Grad
 

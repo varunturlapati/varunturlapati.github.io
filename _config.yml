@@ -34,16 +34,18 @@ investments:
     We are looking to back companies in the sapces of FoodTech, AgTech, Conservation, EdTech, Mass Tranit, Clean Energy, CleanTech, Inclusivity
   personal:
     companies:
-      psyonic:
-        twitter: PSYONICinc
-        site: https://www.psyonic.io
-        youtube: channel/UCAuEvRfpMDCqtGL0cuVbmyA/featured
       accessiblego:
         twitter: accessibleGo
         site: https://accessiblego.com/
       languagelearning:
         site: https://languagelearningmarket.com/about-us/
         linkedin: 40696623
+      patchr:
+        site: https://patchr.io/
+      psyonic:
+        twitter: PSYONICinc
+        site: https://www.psyonic.io/
+        youtube: UCAuEvRfpMDCqtGL0cuVbmyA/featured
 languages:
   wiki_base_url: https://en.wikipedia.org/wiki/
   telugu: Telugu_Language
