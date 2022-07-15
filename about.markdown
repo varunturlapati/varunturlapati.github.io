@@ -14,6 +14,7 @@ permalink: /about
     6. Inclusivity
    
    For companies that I have invested in, see [Companies backed](/companies-backed)
+   
    For firms that I am an Investing Partner in, see [Partners/ VC Firms](/investment-partners.md)
 2. Mentoring, Teaching
 3. Photography
