@@ -20,11 +20,13 @@ Reach out to me if you are piqued!
 
 ## Personal investments
 
-I am working with a friend who has a mission to educate and provide jobs to the less fortunate folks, enabling them to step up their path to being financially secure. In what I see a win-win, I want to invite friends and family to invest with me. Outside of the simple win of money, the investments enable lives and financial stability in demographics that lack such stability. For me, it enables a path towards bigger ventures by establishing a track record and business creditworthiness.
+I am working with a friend who has a mission to educate and provide jobs to the less fortunate folks, enabling them to step up their path to being financially secure. In what I see a win-win, I want to invite friends and family to invest with me.
+
+Outside of the simple win of money, the investments enable lives and financial stability in demographics that lack such stability. For me, it enables a path towards bigger ventures by establishing a track record and business creditworthiness.
 
 Even though this is tentative and the numbers may change, it help to get a visual of what your monetary win may be.
 
-![Approx returns matrix](docs/images/ApproxSuggestedReturnsMatris.png)
+![Approx returns matrix](docs/images/ApproxSuggestedReturnsMatrix.png)
 
 ### [More about me](/about)
 
