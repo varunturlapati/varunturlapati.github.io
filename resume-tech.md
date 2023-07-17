@@ -3,12 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /
+permalink: /tech-resume
 title: Varun Turlapati Tech Resume
 ---
 
 # {{ site.technical_resume_title }}
-[Resume](docs/resume/Resume-Varun-Turlapati-Lead-Jun2023.pdf)
+[Technical Resume](docs/images/Resume-Varun-Turlapati-Lead-Jun2023.pdf)
 
 
 # Meet me
